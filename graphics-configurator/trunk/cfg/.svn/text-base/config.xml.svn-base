@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<resolution>640*480</resolution>
+	<full-screen_mode>true</full-screen_mode>
+	<antialiasing>MULTISAMPLE_NONE</antialiasing>
+	<view_distance>200</view_distance>
+	<texture_quality>Medium</texture_quality><!-- Low, Medium, Hight -->
+	<dynamic_lighting>false</dynamic_lighting><!-- true, false -->
+	<shadows_quality>Medium</shadows_quality><!-- Low, Medium, Hight -->
+	<graphics_quality>Normal</graphics_quality><!-- Low, Normal, Hight, Custom -->
+</config>
